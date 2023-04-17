@@ -1,0 +1,27 @@
+body{
+    background:url("sky_background.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
+.card-header{
+    color: #ffffff;
+    background-color: rgb(47, 182, 226);
+
+}
+
+.card-body{
+    height: 200px;
+}
+
+
+.row{
+
+    width: 70%;
+    top:50%;
+    left:50%;
+    position: absolute;
+    transform:translate(-50%,-50%);
+}
+
